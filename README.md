@@ -2,7 +2,7 @@
 
 Control a relay (e.g. room light) wirelessly using Bluetooth from your smartphone, and view the ON/OFF status in real-time on an SSD1306 OLED display. Built with STM32 and HAL libraries.
 
-![Project Thumbnail](docs/project-thumbnail.png)
+
 
 ---
 
